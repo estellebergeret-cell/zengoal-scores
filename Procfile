@@ -1,4 +1,4 @@
-worker: python -c "
+worker: python update_scores.py
 import time, subprocess
 while True:
     subprocess.run(['python', 'update_scores.py'])
