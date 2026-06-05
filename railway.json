@@ -1,2 +1,0 @@
-{
-  {"deploy":{"startCommand":"python update_scores.py"}}
